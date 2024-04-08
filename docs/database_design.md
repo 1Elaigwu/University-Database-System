@@ -28,12 +28,12 @@ Attributes:
 
 **Professor**:
 
-Attributes:
-ProfessorID (Primary Key)
-Name
-Email
-PhoneNumber
-OfficeLocation
+- Attributes:
+- ProfessorID (Primary Key)
+- Name
+- Email
+- PhoneNumber
+- OfficeLocation
 
 **Course**:
 
